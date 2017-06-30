@@ -1,9 +1,9 @@
-'scopeName': 'source.swift'
+'scopeName': 'source.lattice'
 'fileTypes': [
-  'swift'
+  'lat'
 ],
-'name': 'Swift'
-'firstLineMatch': '^#!\\s*/.*\\bswift'
+'name': 'Lattice'
+'firstLineMatch': '^#!\\s*/.*\\blattice'
 'patterns': [
   {
     'name': 'keyword.declaration.swift'

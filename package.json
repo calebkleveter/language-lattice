@@ -4,7 +4,8 @@
   "description": "Grammar and snippets for the Lattice language",
   "keywords": [
     "language",
-    "grammar"
+    "grammar",
+    "lattice"
   ],
   "repository": "https://github.com/calebkleveter/language-lattice",
   "license": "MIT",
