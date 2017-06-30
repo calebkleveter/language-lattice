@@ -1,3 +1,3 @@
-# PackageName language package
+# Lattice Language Support
 
-A short description of your language package.
+Adds grammar support and snippets for the language Lattice, a derivative of Swift which is transpiled to Swift designed for code-golfing.
